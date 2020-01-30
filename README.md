@@ -1,0 +1,1 @@
+The traditional menu bar for a web page typical uses words to describe each sub category in the navigation bar.  Which begins to take up space in the already limited real estate of a mobile device. As the population of mobile users increases and become more mobile literate. We can now move towards using menu icons to represent the traditional worded navigation bar of web pages.
